@@ -1,3 +1,3 @@
 # content-jenkins-mulibranch-pipeline
 
-A studying in using Jenkins Multibranch Pipeline.
+A study in using Jenkins Multibranch Pipeline.
